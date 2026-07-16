@@ -1,0 +1,6 @@
+
+data/diabetes_prediction_dataset.csv
+
+
+__pycache__/
+*.pyc
