@@ -11,9 +11,14 @@ That project designs a **Clinical Decision Support System** pipeline that utiliz
 **Data Engineering:**Python(`Pandas`,`NumPy`,`Scikit-Learn`)
 **BI Visualization:**Power BI Desktop (Interactive Clinical Dashboard)
 
+<img width="1311" height="739" alt="Screenshot 2026-07-16 194551" src="https://github.com/user-attachments/assets/2479ee50-08fb-4543-a429-11f3a7f0d030" />
+
+
 ### 🧹 Clinical Data Cleaning & Mapping:
 1. **Smoking History Standardization (Manual Mapping):** 
    In the raw dataset, smoking history contained redundant and overlapping categories (such as 'not current', 'ever', and 'former'). We engineered a clean mapping dictionary to consolidate these clinical categories into 4 standardized statuses: `never`, `current`, `former`, and `No Info` to reduce clinical noise for the machine learning model.
+
+   
   
 ##  Model Performance & Clinical Error Audit:
 Our model achieved **97% overall accuracy** and **94% precision**.
