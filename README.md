@@ -1,7 +1,7 @@
 # Hybrid Diabetes Prediction & Clinical Decision Support Pipeline
 **A Physician-Facing ML & BI Pipeline bridging Clinical Diagnostics and Predictive AI**
 
-##Clinical Overview & Problem Statement
+## Clinical Overview & Problem Statement
 In clinical practice, early detection of diabetes mellitus (T2DM) is critical to prevent irreversible complications 
 
 **The Solution**
