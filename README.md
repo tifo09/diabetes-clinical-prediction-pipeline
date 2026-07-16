@@ -8,8 +8,8 @@ In clinical practice, early detection of diabetes mellitus (T2DM) is critical to
 That project designs a **Clinical Decision Support System** pipeline that utilizes a **Random Forest Classifier** trained on **100,000 patients records** to predict diabetic risk.
 
 ## Teck Stack & decisions :
-**Data Engineering:**Python(`Pandas`,`NumPy`,`Scikit-Learn`)
-**BI Visualization:**Power BI Desktop (Interactive Clinical Dashboard)
+**Data Engineering:** Python(`Pandas`,`NumPy`,`Scikit-Learn`)
+**BI Visualization:** Power BI Desktop (Interactive Clinical Dashboard)
 
 <img width="1311" height="739" alt="Screenshot 2026-07-16 194551" src="https://github.com/user-attachments/assets/2479ee50-08fb-4543-a429-11f3a7f0d030" />
 
